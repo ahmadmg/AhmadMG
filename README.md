@@ -14,9 +14,9 @@
 
 - 👀 I’m interested in : ["Programming","Support"]
 - 🌱 I’m currently learning :["HTML","CSS","JAVASCRIPT","REACT"]
-- 📫 You can reach me :["ahmad.kodehode => gmail.com"]
+- 📫 You can reach me :["ahmadmg => gmail.com"]
 
 <!---
-Ahmadkodehode/Ahmadkodehode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ahmadkodehode/AhmadMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
