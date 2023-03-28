@@ -1,23 +1,21 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmadmg&theme=city-lights)](https://git.io/streak-stats)
+# 💫 About Me:
+ I'm passionate about coding and a hard worker. I’ve previously worked in tech support and I’m really excited by the idea of switching roles from support to developer.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmg) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmadmg&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadmg&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 👋 Hi, I’m @[AhmadMG](https://ahmadam.tech/)
-- <br>
-**What you can find in my codes:**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmadmg&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-   ![HTML5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://camo.githubusercontent.com/e10320df09d2d95e5a1cc8f0ce1b52538db9d62eff2725f3a594995babae60c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
+---
+[![](https://visitcount.itsvg.in/api?id=ahmadmg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-- 👀 I’m interested in : ["Programming","Support"]
-- 🌱 I’m currently learning :["HTML","CSS","JAVASCRIPT","REACT"]
-- 📫 You can reach me :["ahmadmg => gmail.com"]
-
-<!---
-Ahmadkodehode/AhmadMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
