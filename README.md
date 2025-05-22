@@ -6,7 +6,7 @@ I'm a test automation engineer [ISTQB certified (CTFL 4.0)] focused on software 
 
 # 💻 Tech Stack:
 ![Cucumber](https://img.shields.io/badge/cucumber-%232B603D.svg?style=for-the-badge&logo=cucumber&logoColor=white)
-![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
+![Playwright](Playwright.svg)
 ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
