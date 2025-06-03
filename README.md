@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a test automation engineer [ISTQB certified (CTFL 4.0)] focused on software quality. I have experience with Cucumber, Playwright, Cypress, Postman, and GitHub. I design and maintain automated tests, troubleshoot issues, and collaborate with developers and product owners.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmg)
 
