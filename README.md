@@ -5,6 +5,7 @@ I'm a test automation engineer [ISTQB certified (CTFL 4.0)] focused on software 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmg)
 
+
 # 💻 Tech Stack:
 ![Cucumber](https://img.shields.io/badge/cucumber-%232B603D.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Playwright](Playwright.svg)
