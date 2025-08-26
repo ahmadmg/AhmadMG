@@ -17,7 +17,6 @@ I'm a test automation engineer [ISTQB certified (CTFL 4.0)] focused on software 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmadmg&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadmg&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
